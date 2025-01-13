@@ -4,7 +4,7 @@
   "keywords": ["laravel", "preset", "zurb-foundation", "foundation", "foundation-sites"],
   "license": "MIT",
   "require": {
-      "laravel/framework": "^6.0",
+      "laravel/framework": "^11.0",
       "laravel/ui": "^1.0"
   },
   "autoload": {
